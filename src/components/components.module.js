@@ -1,1 +1,1 @@
-export { default as MyAwesomeComponent } from './MyAwesomeComponent.svelte';
+export { default as CodeMirror } from './CodeMirror.svelte';

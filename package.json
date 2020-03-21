@@ -68,6 +68,6 @@
 	},
 	"svelte": "src/components/components.module.js",
 	"dependencies": {
-		"@datavis-tech/codemirror-6-prerelease": "5.0.0"
+		"@codemirror/next": "0.4.0"
 	}
 }
